@@ -5,7 +5,7 @@ def main():
     
     # In last iteration, ix = 66831.
 
-    ix = 12345
+    ix = 66831 #12345
     url = 'http://www.pythonchallenge.com/pc/def/linkedlist.php?nothing={}'
 
     print 'Start looping, type in "end" to terminate.'

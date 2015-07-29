@@ -22,3 +22,11 @@ http://www.pythonchallenge.com/pc/def/equality.html
 
 Problem 4
 http://www.pythonchallenge.com/pc/def/linkedlist.html
+
+Problem 5
+http://www.pythonchallenge.com/pc/def/peak.html
+
+Problem 6
+http://www.pythonchallenge.com/pc/def/channel.html
+
+Problem 7

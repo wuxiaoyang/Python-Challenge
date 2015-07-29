@@ -8,6 +8,8 @@ def main():
         cnt[i] = cnt.get(i,0) + 1
     cnt.pop('\n')
 
+    fin.close()
+
     print 'Letter Count'.center(80,'-')
     for c,n in cnt.iteritems():
         print 'Letter {0} occurs for {1} times.'.format(c,n) 
